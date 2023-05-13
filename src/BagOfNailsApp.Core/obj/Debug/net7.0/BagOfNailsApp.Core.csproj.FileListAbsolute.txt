@@ -1,0 +1,12 @@
+C:\Users\A\desktop\BagOfNailsApp\src\BagOfNailsApp.Core\bin\Debug\net7.0\BagOfNailsApp.Core.deps.json
+C:\Users\A\desktop\BagOfNailsApp\src\BagOfNailsApp.Core\bin\Debug\net7.0\BagOfNailsApp.Core.dll
+C:\Users\A\desktop\BagOfNailsApp\src\BagOfNailsApp.Core\bin\Debug\net7.0\BagOfNailsApp.Core.pdb
+C:\Users\A\desktop\BagOfNailsApp\src\BagOfNailsApp.Core\obj\Debug\net7.0\BagOfNailsApp.Core.csproj.AssemblyReference.cache
+C:\Users\A\desktop\BagOfNailsApp\src\BagOfNailsApp.Core\obj\Debug\net7.0\BagOfNailsApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\desktop\BagOfNailsApp\src\BagOfNailsApp.Core\obj\Debug\net7.0\BagOfNailsApp.Core.AssemblyInfoInputs.cache
+C:\Users\A\desktop\BagOfNailsApp\src\BagOfNailsApp.Core\obj\Debug\net7.0\BagOfNailsApp.Core.AssemblyInfo.cs
+C:\Users\A\desktop\BagOfNailsApp\src\BagOfNailsApp.Core\obj\Debug\net7.0\BagOfNailsApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\A\desktop\BagOfNailsApp\src\BagOfNailsApp.Core\obj\Debug\net7.0\BagOfNailsApp.Core.dll
+C:\Users\A\desktop\BagOfNailsApp\src\BagOfNailsApp.Core\obj\Debug\net7.0\refint\BagOfNailsApp.Core.dll
+C:\Users\A\desktop\BagOfNailsApp\src\BagOfNailsApp.Core\obj\Debug\net7.0\BagOfNailsApp.Core.pdb
+C:\Users\A\desktop\BagOfNailsApp\src\BagOfNailsApp.Core\obj\Debug\net7.0\ref\BagOfNailsApp.Core.dll

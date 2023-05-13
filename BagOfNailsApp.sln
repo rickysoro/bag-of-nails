@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{67DAE33C-49DA-45A0-983A-BE2520DEDA51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BagOfNailsApp.Core", "src\BagOfNailsApp.Core\BagOfNailsApp.Core.csproj", "{C7BBDE94-A6A3-455F-A28B-D882CB21B48D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{DB2B2A2F-E640-46D6-AE43-6DEF7B1646AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BagOfNails.Core.Tests", "test\BagOfNails.Core.Tests\BagOfNails.Core.Tests.csproj", "{A8065D41-4BC3-4950-A8A2-758577DFB06A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7BBDE94-A6A3-455F-A28B-D882CB21B48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BBDE94-A6A3-455F-A28B-D882CB21B48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BBDE94-A6A3-455F-A28B-D882CB21B48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BBDE94-A6A3-455F-A28B-D882CB21B48D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8065D41-4BC3-4950-A8A2-758577DFB06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8065D41-4BC3-4950-A8A2-758577DFB06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8065D41-4BC3-4950-A8A2-758577DFB06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8065D41-4BC3-4950-A8A2-758577DFB06A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C7BBDE94-A6A3-455F-A28B-D882CB21B48D} = {67DAE33C-49DA-45A0-983A-BE2520DEDA51}
+		{A8065D41-4BC3-4950-A8A2-758577DFB06A} = {DB2B2A2F-E640-46D6-AE43-6DEF7B1646AB}
+	EndGlobalSection
+EndGlobal
