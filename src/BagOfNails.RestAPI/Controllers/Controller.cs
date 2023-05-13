@@ -24,7 +24,7 @@ namespace BagOfNails.RestAPI.Controllers
         }
 
         [HttpPost]
-        [Route("dffdlgd")]
+        [Route("total-weight")]
         public int CreateTotal(float totalWeight, bool isRandom, float weight)
         {
             return Service.GetTotalNailsNumber(totalWeight, isRandom, weight);
