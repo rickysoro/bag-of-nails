@@ -12,6 +12,6 @@ namespace BagOfNailsApp.Core.Model
         public float totalWeight;
 
         public int NailsNumber { get; set; }
-
+        public int TotalWeight { get; set; } 
     }
 }

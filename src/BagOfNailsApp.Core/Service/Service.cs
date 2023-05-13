@@ -15,28 +15,27 @@ namespace BagOfNailsApp.Core.Service
         BagOfNails Bag = new BagOfNails();
         Nail Nail = new Nail();
 
-        public void GetTotalWeight(float totalWeight)
+        public float GetTotalWeight(float totalWeight)
         {
-            Bag.totalWeight = totalWeight;
+            return Bag.totalWeight = totalWeight;
         }
 
-        public void GetWeights(bool isRandom, float? weight)
+        public float? GetWeights(bool isRandom, float? weight, float totalWeight)
         {
             Random rand = new Random();
+            var bagOfNails = new BagOfNails();
             float min = 0;
-            float max = Bag.totalWeight;
+            float max = totalWeight;
             if (isRandom)
             {
-                Nail.weight = (float) rand.NextDouble() * (max - min) + min;
+                return Nail.weight = (float) rand.NextDouble() * (max - min) + min;
             }
-            else { Nail.weight = weight; }
-            
-            Nail.isRandom = isRandom;
+            else { return Nail.weight = weight; }
         }
 
-        public int GetTotalNailsNumber()
+        public int GetTotalNailsNumber(float totalWeight, bool isRandom, float weight)
         {
-            return (int) (Bag.totalWeight / Nail.weight);
+            return (int) (GetTotalWeight(totalWeight)/ GetWeights(isRandom, weight, totalWeight)); 
         }
 
     }

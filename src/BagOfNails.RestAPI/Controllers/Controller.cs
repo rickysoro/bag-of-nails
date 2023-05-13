@@ -18,16 +18,16 @@ namespace BagOfNails.RestAPI.Controllers
 
         [HttpGet]
         [Route("nail-weight")]
-        public void GetWeights(bool isRandom, float? weight)
+        public void GetWeights(bool isRandom, float? weight, float totalWeight)
         {
-            Service.GetWeights(isRandom, weight);
+            Service.GetWeights(isRandom, weight, totalWeight);
         }
 
         [HttpPost]
         [Route("dffdlgd")]
-        public int CreateTotal()
+        public int CreateTotal(float totalWeight, bool isRandom, float weight)
         {
-            return Service.GetTotalNailsNumber();
+            return Service.GetTotalNailsNumber(totalWeight, isRandom, weight);
         }
 
 
