@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BagOfNails.RestAPI.props" />
+</Project>

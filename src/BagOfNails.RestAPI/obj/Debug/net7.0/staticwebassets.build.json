@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EAbOJzVgf4GF7qm+mQTiiZBz0imoEaOe9GXM8RfgHio=",
+  "Source": "BagOfNails.RestAPI",
+  "BasePath": "_content/BagOfNails.RestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

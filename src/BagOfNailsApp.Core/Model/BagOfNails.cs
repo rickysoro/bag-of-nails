@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace BagOfNailsApp.Core.Model
 {
-    internal class BagOfNails
+    public class BagOfNails
     {
+        public int nailsNumber;
+        public float totalWeight;
+
+        public int NailsNumber { get; set; }
+
     }
 }

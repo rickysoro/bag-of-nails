@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BagOfNails.RestAPI.props" />
+</Project>
