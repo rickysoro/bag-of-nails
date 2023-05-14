@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YKejH4aWcfl69yrWr0h3j2PrG8xteTsmYwyy+KMyS/gdLqKXyr9xP6obhdJcd+PeuY99IRCKZunCB0w/2X34rw==",
+  "dgSpecHash": "fxzhWUOr4dlnDLEf5/XZLznn6aQ0zPKZ8BAIGnd+iHM/mGdyxaG3JOU3BsDUFsMX1dX989Vza9WXza/lUWvlSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A\\Desktop\\BagOfNailsApp\\src\\BagOfNails.RestAPI\\BagOfNails.RestAPI.csproj",
+  "projectFilePath": "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\src\\BagOfNails.RestAPI\\BagOfNails.RestAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\A\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

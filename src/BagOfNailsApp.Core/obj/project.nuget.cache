@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+4rk69FEtsbCxcoRRaDfst+aOTB9H/9K6yafG26M5eTJVbzrtv1gAiPh56onYrdYqOO8fRdLP8t/7B/g7SbNOg==",
+  "dgSpecHash": "NzjVPprTijszxBFppW/DYS8VnoplPFz2S0eoSVoE9OUxh+cVGmdzIq8vKx/SkYd1YORpxafd1B5szsIV5N6ylQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A\\Desktop\\BagOfNailsApp\\src\\BagOfNailsApp.Core\\BagOfNailsApp.Core.csproj",
+  "projectFilePath": "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\src\\BagOfNailsApp.Core\\BagOfNailsApp.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

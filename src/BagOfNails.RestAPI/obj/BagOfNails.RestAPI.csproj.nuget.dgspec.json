@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A\\Desktop\\BagOfNailsApp\\src\\BagOfNails.RestAPI\\BagOfNails.RestAPI.csproj": {}
+    "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\src\\BagOfNails.RestAPI\\BagOfNails.RestAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A\\Desktop\\BagOfNailsApp\\src\\BagOfNails.RestAPI\\BagOfNails.RestAPI.csproj": {
+    "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\src\\BagOfNails.RestAPI\\BagOfNails.RestAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A\\Desktop\\BagOfNailsApp\\src\\BagOfNails.RestAPI\\BagOfNails.RestAPI.csproj",
+        "projectUniqueName": "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\src\\BagOfNails.RestAPI\\BagOfNails.RestAPI.csproj",
         "projectName": "BagOfNails.RestAPI",
-        "projectPath": "C:\\Users\\A\\Desktop\\BagOfNailsApp\\src\\BagOfNails.RestAPI\\BagOfNails.RestAPI.csproj",
+        "projectPath": "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\src\\BagOfNails.RestAPI\\BagOfNails.RestAPI.csproj",
         "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A\\Desktop\\BagOfNailsApp\\src\\BagOfNails.RestAPI\\obj\\",
+        "outputPath": "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\src\\BagOfNails.RestAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\A\\Desktop\\BagOfNailsApp\\src\\BagOfNailsApp.Core\\BagOfNailsApp.Core.csproj": {
-                "projectPath": "C:\\Users\\A\\Desktop\\BagOfNailsApp\\src\\BagOfNailsApp.Core\\BagOfNailsApp.Core.csproj"
+              "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\src\\BagOfNailsApp.Core\\BagOfNailsApp.Core.csproj": {
+                "projectPath": "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\src\\BagOfNailsApp.Core\\BagOfNailsApp.Core.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\A\\Desktop\\BagOfNailsApp\\src\\BagOfNailsApp.Core\\BagOfNailsApp.Core.csproj": {
+    "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\src\\BagOfNailsApp.Core\\BagOfNailsApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A\\Desktop\\BagOfNailsApp\\src\\BagOfNailsApp.Core\\BagOfNailsApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\src\\BagOfNailsApp.Core\\BagOfNailsApp.Core.csproj",
         "projectName": "BagOfNailsApp.Core",
-        "projectPath": "C:\\Users\\A\\Desktop\\BagOfNailsApp\\src\\BagOfNailsApp.Core\\BagOfNailsApp.Core.csproj",
+        "projectPath": "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\src\\BagOfNailsApp.Core\\BagOfNailsApp.Core.csproj",
         "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A\\Desktop\\BagOfNailsApp\\src\\BagOfNailsApp.Core\\obj\\",
+        "outputPath": "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\src\\BagOfNailsApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config",

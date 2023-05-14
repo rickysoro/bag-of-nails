@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A\\Desktop\\BagOfNailsApp\\test\\BagOfNails.Core.Tests\\BagOfNails.Core.Tests.csproj": {}
+    "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\test\\BagOfNails.Core.Tests\\BagOfNails.Core.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A\\Desktop\\BagOfNailsApp\\test\\BagOfNails.Core.Tests\\BagOfNails.Core.Tests.csproj": {
+    "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\test\\BagOfNails.Core.Tests\\BagOfNails.Core.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A\\Desktop\\BagOfNailsApp\\test\\BagOfNails.Core.Tests\\BagOfNails.Core.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\test\\BagOfNails.Core.Tests\\BagOfNails.Core.Tests.csproj",
         "projectName": "BagOfNails.Core.Tests",
-        "projectPath": "C:\\Users\\A\\Desktop\\BagOfNailsApp\\test\\BagOfNails.Core.Tests\\BagOfNails.Core.Tests.csproj",
+        "projectPath": "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\test\\BagOfNails.Core.Tests\\BagOfNails.Core.Tests.csproj",
         "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A\\Desktop\\BagOfNailsApp\\test\\BagOfNails.Core.Tests\\obj\\",
+        "outputPath": "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\test\\BagOfNails.Core.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config",

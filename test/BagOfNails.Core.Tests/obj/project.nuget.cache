@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d6HUvO7wW3/bAoEOVa3N9I7WLBSMAQGxoRnJUjcTLXI/lUPRyuIMhmshBwPl0SRHxQNdM1YFdngvAjLi+2KRWA==",
+  "dgSpecHash": "rbGF+HIofkkkbqtW/oOV66AbyjAuVBio6M5553k77ew0scvMmGv54K/74c2S1RiFUP61c6rD6wHyg8Qc54828Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A\\Desktop\\BagOfNailsApp\\test\\BagOfNails.Core.Tests\\BagOfNails.Core.Tests.csproj",
+  "projectFilePath": "C:\\Users\\A\\Desktop\\BagOfNails\\.NET\\BagOfNailsApp\\test\\BagOfNails.Core.Tests\\BagOfNails.Core.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\A\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
