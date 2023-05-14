@@ -37,6 +37,5 @@ namespace BagOfNailsApp.Core.Service
         {
             return (int) (GetTotalWeight(totalWeight)/ GetWeights(isRandom, weight, totalWeight)); 
         }
-
     }
 }
