@@ -23,19 +23,21 @@ namespace BagOfNailsApp.Core.Service
         public float? GetWeights(bool isRandom, float? weight, float totalWeight)
         {
             Random rand = new Random();
-            var bagOfNails = new BagOfNails();
             float min = 0;
             float max = totalWeight;
             if (isRandom)
             {
                 return Nail.weight = (float) rand.NextDouble() * (max - min) + min;
             }
-            else { return Nail.weight = weight; }
+            else 
+            { 
+                return Nail.weight = weight; 
+            }
         }
 
         public int GetTotalNailsNumber(float totalWeight, bool isRandom, float weight)
         {
-            return (int) (GetTotalWeight(totalWeight)/ GetWeights(isRandom, weight, totalWeight)); 
+            return (int) (GetTotalWeight(totalWeight) / GetWeights(isRandom, weight, totalWeight)); 
         }
     }
 }
