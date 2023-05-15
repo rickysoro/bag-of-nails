@@ -20,6 +20,8 @@ namespace BagOfNailsApp.Core.Service
             return Bag.totalWeight = totalWeight;
         }
 
+        /*** Implemento il metodo che mi permette di inserire il peso del singolo chiodo. Il metodo permette di inserire il peso all'utente o 
+         * provvede alla generazione randomica del peso, a seconda della scelta dell'utente ***/
         public float? GetWeights(bool isRandom, float? weight, float totalWeight)
         {
             Random rand = new Random();
@@ -35,6 +37,8 @@ namespace BagOfNailsApp.Core.Service
             }
         }
 
+        /*** Implemento il metodo che mi permette di sapere il numero di chiodi nel sacchetto. Il metodo prende il peso totale del sacchetto, il peso unitario 
+         * del chiodo (inserito dall'utente o generato casualmente) ed effettua una divisione tra il primo e il secondo dato, restituendo il risultato ***/
         public int GetTotalNailsNumber(float totalWeight, bool isRandom, float weight)
         {
             return (int) (GetTotalWeight(totalWeight) / GetWeights(isRandom, weight, totalWeight)); 
