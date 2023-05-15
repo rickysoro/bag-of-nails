@@ -29,10 +29,5 @@ namespace BagOfNails.RestAPI.Controllers
         {
             return _service.GetTotalNailsNumber(totalWeight, isRandom, weight);
         }
-
-
-
-
-
     }
 }
